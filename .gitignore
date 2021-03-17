@@ -85,3 +85,6 @@ buck-out/
 # Android
 android/build/
 android/app/build/
+android/app/gradle/
+android/app/gradlew
+android/app/gradlew.bat
