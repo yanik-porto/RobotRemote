@@ -88,3 +88,6 @@ android/app/build/
 android/app/gradle/
 android/app/gradlew
 android/app/gradlew.bat
+android/gradle/
+android/gradlew
+android/gradlew.bat
